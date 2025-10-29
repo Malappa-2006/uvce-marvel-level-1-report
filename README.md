@@ -39,7 +39,7 @@ These pulses drive an **LED**, causing it to blink at a frequency determined by 
 1. Created the schematic of the LED blinking circuit.  
 
 ### KiCad PCB Layout Screenshot
-![KiCad PCB Layout](https://example.com/kicad-pcb-layout.png)
+![KiCad PCB Layout](https://github.com/Malappa-2006/uvce-marvel-level-1-report/blob/main/Screenshot%202025-10-27%20190715.png?raw=true)
 
 ---
 
