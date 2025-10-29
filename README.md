@@ -31,7 +31,7 @@ These pulses drive an **LED**, causing it to blink at a frequency determined by 
 **Output:** Square wave signal showing ON and OFF periods corresponding to LED blinking.
 
 ### LTspice Simulation Screenshot
-![LTspice Simulation Result](https://example.com/ltspice-simulation-image.png)
+![LTspice Simulation Result](https://github.com/Malappa-2006/uvce-marvel-level-1-report/blob/main/ltspice.jpeg?raw=true)
 
 ---
 
